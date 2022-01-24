@@ -3,9 +3,6 @@ public class BMI {
     private double weight;
     private double height;
 
-    public BMI(){
-
-    }
 
     public BMI(double weight, double height){
         this.weight = weight * 0.45359237;
